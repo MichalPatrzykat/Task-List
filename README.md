@@ -13,7 +13,7 @@ https://michalpatrzykat.github.io/Task-List/
 
 ## Screen
 
-![obrazek](https://zapodaj.net/289961718311d.png.html)
+![obrazek](https://iv.pl/image/bez-tytulu.GIfpDre)
 
 ## How it works?
 
