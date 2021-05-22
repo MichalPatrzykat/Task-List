@@ -13,7 +13,7 @@ https://michalpatrzykat.github.io/Task-List/
 
 ## Screen
 
-![image](https://zapodaj.net/38967d756055b.png.html)
+![image](https://zapodaj.net/38967d756055b.png.)
 
 ## How it works?
 
