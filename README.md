@@ -13,7 +13,7 @@ https://michalpatrzykat.github.io/Task-List/
 
 ## Screen
 
-![obrazek](https://iv.pl/image/bez-tytulu.GIfpDre)
+![](/https://iv.pl/image/bez-tytulu.GIfpDre)
 
 ## How it works?
 
