@@ -20,4 +20,4 @@ https://michalpatrzykat.github.io/Task-List/
 
 ## How it works?
 
-This is a to-do list to help you manage your time. You can add tasks to it. After they are completed, it can be deleted. 
+This is a to-do list to help you manage your time. You can add tasks to it. After they are completed, it can be deleted or mark them as done and then hide.
