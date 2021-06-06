@@ -13,10 +13,8 @@ https://michalpatrzykat.github.io/Task-List/
 
 ## Screen
 
-<<<<<<< HEAD
-=======
+
 ![image](https://zapodaj.net/images/38967d756055b.png)
->>>>>>> 1aa0d9f0f7f916eb4ff9d34273be5362550c771e
 
 ## How it works?
 
